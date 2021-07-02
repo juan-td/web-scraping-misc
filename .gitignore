@@ -1,0 +1,5 @@
+data/episode_data.txt
+data/rating_data.txt
+data/title.episode.tsv.gz
+data/title.ratings.tsv.gz
+.ipynb_checkpoints/simpsons_web_scraping-checkpoint.ipynb
