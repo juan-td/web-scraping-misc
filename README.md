@@ -16,7 +16,7 @@ A few projects based on web scraping and data visualization
 ![views_plot](https://user-images.githubusercontent.com/82002486/128874201-623eb88d-d111-4aa3-a2ed-9cfebb3835fa.png)
 ![writing_credits_count](https://user-images.githubusercontent.com/82002486/128874277-c024bc8b-2675-4b4a-8add-7b412da4ad42.png)
 ![writing_credits_date)](https://user-images.githubusercontent.com/82002486/128874351-25bc08af-159f-4ba5-b2fa-84c1802ae0ca.png)
-![writing_credits_rating](https://user-images.githubusercontent.com/82002486/128874437-452573a0-0669-4ca1-9d5b-36f0ef1c18e8.png)
+![writing_credits_rating](https://user-images.githubusercontent.com/82002486/128875045-67c8e4c8-ca69-4265-aaa7-10fb8c3c777d.png)
 ![Guest_stars_individual](https://user-images.githubusercontent.com/82002486/128874548-521194bd-1630-495d-ad9e-d4f0f12c8324.png)
 ![Guest_stars_pie](https://user-images.githubusercontent.com/82002486/128874599-6a47853a-4020-4429-969b-a5caeeb79bde.png)
 ![Guest_stars_date](https://user-images.githubusercontent.com/82002486/128874719-70d3a0bd-6ae2-43e2-8226-91a5034ff3de.png)
